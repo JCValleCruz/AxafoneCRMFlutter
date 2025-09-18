@@ -27,10 +27,5 @@
         }
       ]
     }
-  ],
-  "functions": {
-    "app/main.dart.js": {
-      "maxDuration": 30
-    }
-  }
+  ]
 }
